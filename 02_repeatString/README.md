@@ -1,3 +1,8 @@
+12/18/2022 12:43 
+EX 01 complete
+EX 02 line 16 negative numbers isn't working
+come back later to fix it
+
 # Exercise 02 - repeatString
 
 Write a function that simply repeats the string a given number of times:
